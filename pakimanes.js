@@ -10,6 +10,7 @@ var objimages = {
 }
 
 class Pakiman {
+    
     constructor(name,health,attackpoints){
 
         this.image = new Image();
