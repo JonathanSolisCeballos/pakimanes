@@ -37,7 +37,6 @@ class Pakiman {
     }
 }
 //window.onload = function(){
-    var borrar;
     var colection = [];
     colection.push(new Pakiman("pig",100,150));
     colection.push(new Pakiman("cow",120,80));
