@@ -36,14 +36,13 @@ class Pakiman {
 
     }
 }
+
 //window.onload = function(){
     var colection = [];
     colection.push(new Pakiman("pig",100,150));
     colection.push(new Pakiman("cow",120,80));
     colection.push(new Pakiman("chicken",80,120));
-
     for(let each of colection)          
         each.show();
-
 
 //}
